@@ -1,5 +1,5 @@
 # HoliTron
 
-## Cabecera2
+## Primeros pasos
 
 [Hola](www.google.com)
